@@ -98,11 +98,11 @@ Style the main area of the website using flex properties (see screenshots).
 **background image help** 
 To display a background image with an overlay, see below:
 
-``css
+```css
 	  background: linear-gradient(
         rgba(0,0,0,0.6),
         rgba(0,0,0,0.6)
     ),
     url('../img/gelato-bkgd-sm.webp') left / cover;
-``
+```
 
