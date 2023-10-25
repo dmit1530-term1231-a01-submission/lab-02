@@ -1,0 +1,34 @@
+/*
+
+COLOUR PALETTE
+
+brown:                    #66383b
+light pink:               #ffaaa6
+light yellow:             #ffdb9d
+yellow:                   #ffd385
+light seafoam green:      #dcedc2
+
+
+
+GOOGLE FONTS 
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Pacifico', cursive;
+
+*/
+
+/* UNIVERSAL STYLES */
+
+
+/* MOBILE VIEW */
+
+
+/* MEDIUM VIEW */
+@media screen and (min-width: 720px) {
+
+}
+
+/* LARGE VIEW */
+@media screen and (min-width: 1024px) {
+    
+}
